@@ -1,4 +1,4 @@
-# Project Title
+# From Riyadh to Cyberspace
 
 A research and engineering repository that contains the **code**, **Saudi diplomatic corpus**, and supporting materials for the project "From Riyadh to Cyberspace: KeyATM Analysis of Saudi Arabia’s Geopolitical Ventures in Digital Diplomacy".
 
@@ -18,36 +18,11 @@ project-root/
 |   └── preses_release.csv
 
 ├── keyATM/
-│   ├── preprocessing/
-│   ├── models/
-│   ├── retrieval/
-│   ├── routing/
-│   ├── evaluation/
-│   └── utils/
-├── scripts/
-│   ├── prepare_data.py
-│   ├── train.py
-│   ├── evaluate.py
-│   └── run_pipeline.py
-├── notebooks/
-├── outputs/
-│   ├── logs/
-│   ├── figures/
-│   └── results/
-└── docs/
-```
+│   ├── code
+│   └── result/
+|       └── whole_corpus
+└── Bertopic
+  ├── code
+  └── result/
+       └── whole_corpus
 
-## Corpus
-
-The corpus used in this project should be placed under the `corpus/` or `data/raw/` directory depending on your workflow.
-
-### Corpus Contents
-
-Typical contents may include:
-
-- raw text documents
-- PDF files
-- JSON / JSONL records
-- metadata files
-- train / validation / test splits
-- annotations or labels
