@@ -1,0 +1,8 @@
+﻿Parent_ID,Parent_Name,Topics,Child_Left_ID,Child_Left_Name,Child_Right_ID,Child_Right_Name,Distance
+14,the_of_and_to_in,"[0, 1, 2, 3, 4, 5, 6, 7]",7,campaign_winter_syrian_national campaign_saudi national,13,the_of_and_to_in,0.9135257176010039
+13,the_of_and_to_in,"[0, 1, 2, 3, 4, 5, 6]",12,the_of_and_to_in,5,the_ministry_and_foreign_of,0.7371293540526118
+12,the_of_and_to_in,"[0, 1, 2, 3, 4, 6]",3,relief_ksrelief_aid_the_humanitarian,11,the_of_and_to_in,0.6954463586420668
+11,the_of_and_to_in,"[0, 1, 2, 4, 6]",10,the_of_and_to_in,6,prize_the_of_professor_for,0.6746863925126699
+10,the_of_and_to_in,"[0, 1, 2, 4]",4,king_salman_king salman_the_of,9,the_of_and_to_in,0.5007745398283278
+9,the_of_and_to_in,"[0, 1, 2]",1,bin_of_minister_the_and,8,the_of_and_to_in,0.346852928121889
+8,the_of_and_to_in,"[0, 2]",0,the_of_and_to_in,2,the_of_cabinet_the cabinet_and,0.26641735853532156
