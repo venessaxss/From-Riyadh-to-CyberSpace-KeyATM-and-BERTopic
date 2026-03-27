@@ -1,0 +1,2 @@
+subset,n_input_docs,n_model_docs,n_vocab,n_topics_total,n_guided_topics,n_other_topics
+category: News,1123,1123,4315,11,8,3

@@ -1,0 +1,39 @@
+Word,WordCount,Proportion(%),Ranking,Topic
+oil,215,0.476,1,1_Economic Cooperation
+economic,131,0.29,2,1_Economic Cooperation
+partnership,43,0.095,3,1_Economic Cooperation
+investment,41,0.091,4,1_Economic Cooperation
+trade,25,0.055,5,1_Economic Cooperation
+infrastructure,14,0.031,6,1_Economic Cooperation
+saudi_arabia,431,0.955,1,2_Belt and Road Initiative (BRI)
+infrastructure,14,0.031,2,2_Belt and Road Initiative (BRI)
+connectivity,3,0.007,3,2_Belt and Road Initiative (BRI)
+saudi_arabia,431,0.955,1,3_Diplomatic Relations
+energy,219,0.485,2,3_Diplomatic Relations
+oil,215,0.476,3,3_Diplomatic Relations
+production,35,0.078,4,3_Diplomatic Relations
+supply,30,0.066,5,3_Diplomatic Relations
+technology,35,0.078,1,4_Technology and Innovation
+collaboration,9,0.02,2,4_Technology and Innovation
+digital,3,0.007,3,4_Technology and Innovation
+innovation,3,0.007,4,4_Technology and Innovation
+saudi_arabia,431,0.955,1,5_Cultural Exchange
+culture,22,0.049,2,5_Cultural Exchange
+education,18,0.04,3,5_Cultural Exchange
+exchange,10,0.022,4,5_Cultural Exchange
+security,331,0.733,1,6_Geopolitical Strategy
+middle_east,37,0.082,2,6_Geopolitical Strategy
+strategy,17,0.038,3,6_Geopolitical Strategy
+alliance,10,0.022,4,6_Geopolitical Strategy
+influence,7,0.016,5,6_Geopolitical Strategy
+trade,25,0.055,1,7_Trade Agreements
+agreements,12,0.027,2,7_Trade Agreements
+partnerships,9,0.02,3,7_Trade Agreements
+imports,6,0.013,4,7_Trade Agreements
+exports,3,0.007,5,7_Trade Agreements
+development,109,0.241,1,8_Infrastructure Development
+partnership,43,0.095,2,8_Infrastructure Development
+projects,21,0.047,3,8_Infrastructure Development
+infrastructure,14,0.031,4,8_Infrastructure Development
+construction,9,0.02,5,8_Infrastructure Development
+cities,6,0.013,6,8_Infrastructure Development

@@ -1,0 +1,49 @@
+Topic,seed_word,vocab_term,present_in_vocab,probability,rank_in_topic
+Belt and Road Initiative (BRI),saudi arabia,saudi arabia,TRUE,0.03810870515245404,1
+Belt and Road Initiative (BRI),silk road,silk road,TRUE,1.792429221567055e-4,946
+Belt and Road Initiative (BRI),connectivity,connectivity,TRUE,7.843610101733183e-5,1313
+Belt and Road Initiative (BRI),infrastructure,infrastructure,TRUE,2.8309851628015628e-6,1359
+Belt and Road Initiative (BRI),china,china,TRUE,2.8309851628015628e-6,1365
+Belt and Road Initiative (BRI),bri,bri,FALSE,NA,NA
+Cultural Exchange,culture,culture,TRUE,0.02904949676283571,1
+Cultural Exchange,education,education,TRUE,0.018027056408639,2
+Cultural Exchange,saudi arabia,saudi arabia,TRUE,0.017623796395680586,3
+Cultural Exchange,exchange,exchange,TRUE,0.012515836231540647,8
+Cultural Exchange,tourism,tourism,TRUE,0.010902796179706981,10
+Cultural Exchange,china,china,TRUE,1.4775829829744228e-5,802
+Diplomatic Relations,saudi arabia,saudi arabia,TRUE,0.055059088325247287,1
+Diplomatic Relations,energy,energy,TRUE,0.049833996623863536,2
+Diplomatic Relations,oil,oil,TRUE,0.04473041868297709,3
+Diplomatic Relations,supply,supply,TRUE,0.009005373096771924,6
+Diplomatic Relations,production,production,TRUE,0.007425694210307072,10
+Diplomatic Relations,china,china,TRUE,0.0011069786644476562,203
+Economic Cooperation,economic,economic,TRUE,0.014121631420032095,3
+Economic Cooperation,investment,investment,TRUE,0.00660661311002199,17
+Economic Cooperation,partnership,partnership,TRUE,0.005823293522340567,20
+Economic Cooperation,trade,trade,TRUE,0.003808133488302746,37
+Economic Cooperation,infrastructure,infrastructure,TRUE,0.0017328564654547675,119
+Economic Cooperation,oil,oil,TRUE,3.807820414780537e-4,552
+Geopolitical Strategy,security,security,TRUE,0.021685104909673254,1
+Geopolitical Strategy,middle east,middle east,TRUE,0.002352213884263443,84
+Geopolitical Strategy,alliance,alliance,TRUE,0.0016798927231347401,132
+Geopolitical Strategy,influence,influence,TRUE,5.055825738201103e-4,427
+Geopolitical Strategy,strategy,strategy,TRUE,2.3297486058635703e-4,671
+Geopolitical Strategy,geopolitics,geopolitics,TRUE,2.3067955424119306e-6,1268
+Infrastructure Development,development,development,TRUE,0.016461150603215607,4
+Infrastructure Development,projects,projects,TRUE,0.005485186637261351,25
+Infrastructure Development,cities,cities,TRUE,0.0029865249228044556,57
+Infrastructure Development,construction,construction,TRUE,0.0015829180810949613,131
+Infrastructure Development,infrastructure,infrastructure,TRUE,7.056638050265269e-4,328
+Infrastructure Development,partnership,partnership,TRUE,3.860384171779479e-6,1232
+Technology and Innovation,technology,technology,TRUE,0.001068516901924446,155
+Technology and Innovation,china,china,TRUE,6.967315512489703e-4,209
+Technology and Innovation,innovation,innovation,TRUE,4.984460308887165e-4,289
+Technology and Innovation,digital,digital,TRUE,2.258034403933677e-4,513
+Technology and Innovation,collaboration,collaboration,TRUE,2.7517920033114005e-5,967
+Technology and Innovation,ai,ai,FALSE,NA,NA
+Trade Agreements,agreements,agreements,TRUE,0.00527974784204761,38
+Trade Agreements,partnerships,partnerships,TRUE,0.0019059578274292937,116
+Trade Agreements,imports,imports,TRUE,9.555944430297679e-4,234
+Trade Agreements,exports,exports,TRUE,7.655217661498628e-4,284
+Trade Agreements,trade,trade,TRUE,5.283369216544311e-4,372
+Trade Agreements,deals,deals,TRUE,5.279309200499812e-4,373

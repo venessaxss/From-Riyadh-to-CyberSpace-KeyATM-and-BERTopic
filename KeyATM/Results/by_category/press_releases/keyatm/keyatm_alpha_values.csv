@@ -1,0 +1,809 @@
+Iteration,Topic,alpha
+1,1_Economic Cooperation,1.3862601326787354
+1,2_Belt and Road Initiative (BRI),0.1470264960802531
+1,3_Diplomatic Relations,0.6103166437820894
+1,4_Technology and Innovation,0.34703159676721645
+1,5_Cultural Exchange,0.7770350421132822
+1,6_Geopolitical Strategy,0.8494467459825921
+1,7_Trade Agreements,0.4662789089183599
+1,8_Infrastructure Development,0.9829606757642594
+10,1_Economic Cooperation,0.5561878727846904
+10,2_Belt and Road Initiative (BRI),0.5451421938664315
+10,3_Diplomatic Relations,0.4183294809276123
+10,4_Technology and Innovation,0.4377974048989683
+10,5_Cultural Exchange,0.45354755426250337
+10,6_Geopolitical Strategy,0.5590268201811812
+10,7_Trade Agreements,0.3176011284894872
+10,8_Infrastructure Development,0.35191737510525684
+20,1_Economic Cooperation,0.443869537710728
+20,2_Belt and Road Initiative (BRI),0.5223225515514697
+20,3_Diplomatic Relations,0.38967946778126716
+20,4_Technology and Innovation,0.5614653739921953
+20,5_Cultural Exchange,0.45027582907116576
+20,6_Geopolitical Strategy,0.5700389175231844
+20,7_Trade Agreements,0.23110362727215147
+20,8_Infrastructure Development,0.3442358442571708
+30,1_Economic Cooperation,0.48961669079140024
+30,2_Belt and Road Initiative (BRI),0.5561689446188063
+30,3_Diplomatic Relations,0.4111400199482946
+30,4_Technology and Innovation,0.5639625642187439
+30,5_Cultural Exchange,0.41597100492865413
+30,6_Geopolitical Strategy,0.5007169178280675
+30,7_Trade Agreements,0.22286378946450544
+30,8_Infrastructure Development,0.3251389687734798
+40,1_Economic Cooperation,0.48772986450896394
+40,2_Belt and Road Initiative (BRI),0.5932338875844276
+40,3_Diplomatic Relations,0.36170968144939497
+40,4_Technology and Innovation,0.5710766053232214
+40,5_Cultural Exchange,0.40783997444047365
+40,6_Geopolitical Strategy,0.5445019743724212
+40,7_Trade Agreements,0.1987723634453259
+40,8_Infrastructure Development,0.2989094872123479
+50,1_Economic Cooperation,0.45412334938371157
+50,2_Belt and Road Initiative (BRI),0.6228861894326323
+50,3_Diplomatic Relations,0.3950886654932032
+50,4_Technology and Innovation,0.5541599349417647
+50,5_Cultural Exchange,0.34849641332147935
+50,6_Geopolitical Strategy,0.544185096331261
+50,7_Trade Agreements,0.19895438251270686
+50,8_Infrastructure Development,0.2974812469209573
+60,1_Economic Cooperation,0.4939613891494233
+60,2_Belt and Road Initiative (BRI),0.5660898149326925
+60,3_Diplomatic Relations,0.343374071290296
+60,4_Technology and Innovation,0.5447932127216164
+60,5_Cultural Exchange,0.34025238511741607
+60,6_Geopolitical Strategy,0.543571060694172
+60,7_Trade Agreements,0.17005255826636437
+60,8_Infrastructure Development,0.24923962658217583
+70,1_Economic Cooperation,0.5154020306487431
+70,2_Belt and Road Initiative (BRI),0.5741159888235404
+70,3_Diplomatic Relations,0.38272723197717134
+70,4_Technology and Innovation,0.5580649057130975
+70,5_Cultural Exchange,0.3402590372246297
+70,6_Geopolitical Strategy,0.4983563714221222
+70,7_Trade Agreements,0.16120974365949006
+70,8_Infrastructure Development,0.2501699934477237
+80,1_Economic Cooperation,0.44287949021715917
+80,2_Belt and Road Initiative (BRI),0.5866480231230222
+80,3_Diplomatic Relations,0.3229135944602601
+80,4_Technology and Innovation,0.5737189781852612
+80,5_Cultural Exchange,0.3064650910448417
+80,6_Geopolitical Strategy,0.48263212341027634
+80,7_Trade Agreements,0.1505122024546378
+80,8_Infrastructure Development,0.22753896008949617
+90,1_Economic Cooperation,0.4478169381437587
+90,2_Belt and Road Initiative (BRI),0.5849874676159366
+90,3_Diplomatic Relations,0.3139983445589233
+90,4_Technology and Innovation,0.5490128347866087
+90,5_Cultural Exchange,0.2713602406009996
+90,6_Geopolitical Strategy,0.5000077218562158
+90,7_Trade Agreements,0.13740019082884752
+90,8_Infrastructure Development,0.20424363151110628
+100,1_Economic Cooperation,0.4596937385987271
+100,2_Belt and Road Initiative (BRI),0.5513290504636804
+100,3_Diplomatic Relations,0.28703046979434604
+100,4_Technology and Innovation,0.5056045897851691
+100,5_Cultural Exchange,0.2930324949929286
+100,6_Geopolitical Strategy,0.4824134535506937
+100,7_Trade Agreements,0.1359342978285941
+100,8_Infrastructure Development,0.18150645980743643
+110,1_Economic Cooperation,0.4257685118431557
+110,2_Belt and Road Initiative (BRI),0.5695610555964121
+110,3_Diplomatic Relations,0.29822308442020534
+110,4_Technology and Innovation,0.5411259595842601
+110,5_Cultural Exchange,0.24694218399184875
+110,6_Geopolitical Strategy,0.49747261357731004
+110,7_Trade Agreements,0.12515623185524655
+110,8_Infrastructure Development,0.15115359476486886
+120,1_Economic Cooperation,0.40115829369157097
+120,2_Belt and Road Initiative (BRI),0.5531359123769634
+120,3_Diplomatic Relations,0.30556583730429754
+120,4_Technology and Innovation,0.4818405621272876
+120,5_Cultural Exchange,0.2519269124325415
+120,6_Geopolitical Strategy,0.49114493106591856
+120,7_Trade Agreements,0.11176825942986379
+120,8_Infrastructure Development,0.14493073238790125
+130,1_Economic Cooperation,0.39460192668952715
+130,2_Belt and Road Initiative (BRI),0.5515625540900022
+130,3_Diplomatic Relations,0.2776073515283486
+130,4_Technology and Innovation,0.5275095940033186
+130,5_Cultural Exchange,0.23201602897224377
+130,6_Geopolitical Strategy,0.4711117814174051
+130,7_Trade Agreements,0.12052361743253218
+130,8_Infrastructure Development,0.14630903555600935
+140,1_Economic Cooperation,0.3821588804798573
+140,2_Belt and Road Initiative (BRI),0.48701828900362254
+140,3_Diplomatic Relations,0.25321741735780057
+140,4_Technology and Innovation,0.44932124449851796
+140,5_Cultural Exchange,0.24867748550142757
+140,6_Geopolitical Strategy,0.43860852283549684
+140,7_Trade Agreements,0.11158904193998684
+140,8_Infrastructure Development,0.15107694819233825
+150,1_Economic Cooperation,0.382356127315422
+150,2_Belt and Road Initiative (BRI),0.5277337823733443
+150,3_Diplomatic Relations,0.26743566317091333
+150,4_Technology and Innovation,0.48130241391808976
+150,5_Cultural Exchange,0.19864249744934084
+150,6_Geopolitical Strategy,0.44195276144087886
+150,7_Trade Agreements,0.10364468162718445
+150,8_Infrastructure Development,0.1587784206210838
+160,1_Economic Cooperation,0.3831254217551396
+160,2_Belt and Road Initiative (BRI),0.5156535771478234
+160,3_Diplomatic Relations,0.29850648890388914
+160,4_Technology and Innovation,0.466194668117372
+160,5_Cultural Exchange,0.2068900399794039
+160,6_Geopolitical Strategy,0.4522912392808133
+160,7_Trade Agreements,0.10875393564173574
+160,8_Infrastructure Development,0.12740381082110855
+170,1_Economic Cooperation,0.3543839801695586
+170,2_Belt and Road Initiative (BRI),0.5052984484320409
+170,3_Diplomatic Relations,0.27392552920082947
+170,4_Technology and Innovation,0.4771405281219934
+170,5_Cultural Exchange,0.20077840395888447
+170,6_Geopolitical Strategy,0.45206790571907407
+170,7_Trade Agreements,0.1010508951217585
+170,8_Infrastructure Development,0.14396365020825844
+180,1_Economic Cooperation,0.4052359637404056
+180,2_Belt and Road Initiative (BRI),0.5586057675351086
+180,3_Diplomatic Relations,0.2537353438288898
+180,4_Technology and Innovation,0.4513375159200005
+180,5_Cultural Exchange,0.21552219004312542
+180,6_Geopolitical Strategy,0.45290792963658727
+180,7_Trade Agreements,0.10240741340053681
+180,8_Infrastructure Development,0.13123912665280543
+190,1_Economic Cooperation,0.36046141107869056
+190,2_Belt and Road Initiative (BRI),0.54360456537637
+190,3_Diplomatic Relations,0.24637588779379221
+190,4_Technology and Innovation,0.4452856873011912
+190,5_Cultural Exchange,0.17423893377861463
+190,6_Geopolitical Strategy,0.4087527854337431
+190,7_Trade Agreements,0.08715918948826358
+190,8_Infrastructure Development,0.11570230091972827
+200,1_Economic Cooperation,0.34731922871089926
+200,2_Belt and Road Initiative (BRI),0.5453233557216846
+200,3_Diplomatic Relations,0.256065106222449
+200,4_Technology and Innovation,0.4670759910078091
+200,5_Cultural Exchange,0.1717015302109191
+200,6_Geopolitical Strategy,0.39352818347642377
+200,7_Trade Agreements,0.10679181660860805
+200,8_Infrastructure Development,0.12319014202064753
+210,1_Economic Cooperation,0.34044747672573533
+210,2_Belt and Road Initiative (BRI),0.5107780821086443
+210,3_Diplomatic Relations,0.21709505870218918
+210,4_Technology and Innovation,0.4153699857847224
+210,5_Cultural Exchange,0.18716846429845332
+210,6_Geopolitical Strategy,0.4063462152106069
+210,7_Trade Agreements,0.0985754642934701
+210,8_Infrastructure Development,0.11102007700514961
+220,1_Economic Cooperation,0.37326279284278147
+220,2_Belt and Road Initiative (BRI),0.5483101758726686
+220,3_Diplomatic Relations,0.2383883883074526
+220,4_Technology and Innovation,0.4409514921704374
+220,5_Cultural Exchange,0.16899330041374272
+220,6_Geopolitical Strategy,0.3978087811363204
+220,7_Trade Agreements,0.0934620330384009
+220,8_Infrastructure Development,0.12465968264753947
+230,1_Economic Cooperation,0.32361433810900225
+230,2_Belt and Road Initiative (BRI),0.5112519256396397
+230,3_Diplomatic Relations,0.25247765789642534
+230,4_Technology and Innovation,0.4428234836442994
+230,5_Cultural Exchange,0.16041119165834253
+230,6_Geopolitical Strategy,0.38420651340844675
+230,7_Trade Agreements,0.09809835677957277
+230,8_Infrastructure Development,0.10891386869174982
+240,1_Economic Cooperation,0.3345594865445865
+240,2_Belt and Road Initiative (BRI),0.5271434947700933
+240,3_Diplomatic Relations,0.2604339984262595
+240,4_Technology and Innovation,0.3656215988161757
+240,5_Cultural Exchange,0.1821487321187002
+240,6_Geopolitical Strategy,0.3874223803470328
+240,7_Trade Agreements,0.10331851219259287
+240,8_Infrastructure Development,0.11348411981976257
+250,1_Economic Cooperation,0.328586835761
+250,2_Belt and Road Initiative (BRI),0.533344518007587
+250,3_Diplomatic Relations,0.2222087128167983
+250,4_Technology and Innovation,0.41542308834296954
+250,5_Cultural Exchange,0.1866367393252495
+250,6_Geopolitical Strategy,0.40880552448656327
+250,7_Trade Agreements,0.08109712193788092
+250,8_Infrastructure Development,0.11648318000488088
+260,1_Economic Cooperation,0.3190197444007322
+260,2_Belt and Road Initiative (BRI),0.5234966233693041
+260,3_Diplomatic Relations,0.21174013656967183
+260,4_Technology and Innovation,0.4012234450432651
+260,5_Cultural Exchange,0.14438479192506923
+260,6_Geopolitical Strategy,0.4027851330345192
+260,7_Trade Agreements,0.078016224720244845
+260,8_Infrastructure Development,0.11360602942505939
+270,1_Economic Cooperation,0.3257268029515219
+270,2_Belt and Road Initiative (BRI),0.5061129374768006
+270,3_Diplomatic Relations,0.22007085438521212
+270,4_Technology and Innovation,0.3724788189921694
+270,5_Cultural Exchange,0.1558616943475522
+270,6_Geopolitical Strategy,0.3865992988706831
+270,7_Trade Agreements,0.07950894463888716
+270,8_Infrastructure Development,0.1134871641711271
+280,1_Economic Cooperation,0.2934870153266344
+280,2_Belt and Road Initiative (BRI),0.48556987352665676
+280,3_Diplomatic Relations,0.21934949449630792
+280,4_Technology and Innovation,0.3827115976848533
+280,5_Cultural Exchange,0.15030814607843226
+280,6_Geopolitical Strategy,0.4020839812403852
+280,7_Trade Agreements,0.09397842893168368
+280,8_Infrastructure Development,0.12410001727290844
+290,1_Economic Cooperation,0.2928203870247617
+290,2_Belt and Road Initiative (BRI),0.5063445022671766
+290,3_Diplomatic Relations,0.20356895426698424
+290,4_Technology and Innovation,0.406141953501218
+290,5_Cultural Exchange,0.14185633850995985
+290,6_Geopolitical Strategy,0.38160975022169397
+290,7_Trade Agreements,0.08236469400243697
+290,8_Infrastructure Development,0.10252506553218821
+300,1_Economic Cooperation,0.283244313373847
+300,2_Belt and Road Initiative (BRI),0.498578252494111
+300,3_Diplomatic Relations,0.20832421575035906
+300,4_Technology and Innovation,0.36819352716282994
+300,5_Cultural Exchange,0.1573416765091313
+300,6_Geopolitical Strategy,0.3685416439023454
+300,7_Trade Agreements,0.07327635009681586
+300,8_Infrastructure Development,0.12078927035260699
+310,1_Economic Cooperation,0.27625322366793487
+310,2_Belt and Road Initiative (BRI),0.5162174411143685
+310,3_Diplomatic Relations,0.22681445305954864
+310,4_Technology and Innovation,0.4247027248052783
+310,5_Cultural Exchange,0.15872715351139616
+310,6_Geopolitical Strategy,0.3734726734165292
+310,7_Trade Agreements,0.0788949730990005
+310,8_Infrastructure Development,0.12167268771356422
+320,1_Economic Cooperation,0.30957722709122654
+320,2_Belt and Road Initiative (BRI),0.502222514642481
+320,3_Diplomatic Relations,0.21410275556829034
+320,4_Technology and Innovation,0.4056755062425504
+320,5_Cultural Exchange,0.14072438212774896
+320,6_Geopolitical Strategy,0.3401611818031604
+320,7_Trade Agreements,0.07760201009841454
+320,8_Infrastructure Development,0.11183694877266476
+330,1_Economic Cooperation,0.31618492695260236
+330,2_Belt and Road Initiative (BRI),0.4960939268081414
+330,3_Diplomatic Relations,0.20674534887330998
+330,4_Technology and Innovation,0.41598528008950025
+330,5_Cultural Exchange,0.14168433347003526
+330,6_Geopolitical Strategy,0.3270164526499408
+330,7_Trade Agreements,0.07644423717080294
+330,8_Infrastructure Development,0.09175588326291015
+340,1_Economic Cooperation,0.29013887613186073
+340,2_Belt and Road Initiative (BRI),0.5140667064306005
+340,3_Diplomatic Relations,0.19972900044900718
+340,4_Technology and Innovation,0.37902879002847956
+340,5_Cultural Exchange,0.15598982704970701
+340,6_Geopolitical Strategy,0.3401868275882305
+340,7_Trade Agreements,0.08183510043305998
+340,8_Infrastructure Development,0.10482830975613265
+350,1_Economic Cooperation,0.27279621173025964
+350,2_Belt and Road Initiative (BRI),0.46576394942667176
+350,3_Diplomatic Relations,0.22422159231559669
+350,4_Technology and Innovation,0.36511718308606395
+350,5_Cultural Exchange,0.1529852104030597
+350,6_Geopolitical Strategy,0.3259553163486347
+350,7_Trade Agreements,0.08526852077389185
+350,8_Infrastructure Development,0.11385589407479005
+360,1_Economic Cooperation,0.29737270113883363
+360,2_Belt and Road Initiative (BRI),0.48721170262381347
+360,3_Diplomatic Relations,0.1895157712901195
+360,4_Technology and Innovation,0.4107358564142996
+360,5_Cultural Exchange,0.14474224673073327
+360,6_Geopolitical Strategy,0.31020563047172384
+360,7_Trade Agreements,0.08439234230735934
+360,8_Infrastructure Development,0.11184132037443151
+370,1_Economic Cooperation,0.30053834321886996
+370,2_Belt and Road Initiative (BRI),0.5252033101046789
+370,3_Diplomatic Relations,0.21164665222467596
+370,4_Technology and Innovation,0.37883917747419776
+370,5_Cultural Exchange,0.1343276395946926
+370,6_Geopolitical Strategy,0.34492477070703637
+370,7_Trade Agreements,0.0758081289632235
+370,8_Infrastructure Development,0.11494949706943842
+380,1_Economic Cooperation,0.24649291217235836
+380,2_Belt and Road Initiative (BRI),0.4584202903480058
+380,3_Diplomatic Relations,0.1922998007376872
+380,4_Technology and Innovation,0.3879796986147636
+380,5_Cultural Exchange,0.14025246715513412
+380,6_Geopolitical Strategy,0.31504339599514475
+380,7_Trade Agreements,0.07869804792761076
+380,8_Infrastructure Development,0.10188692707395036
+390,1_Economic Cooperation,0.2744405123274795
+390,2_Belt and Road Initiative (BRI),0.4707808743543206
+390,3_Diplomatic Relations,0.19171586083383851
+390,4_Technology and Innovation,0.39455193063179567
+390,5_Cultural Exchange,0.12833157682218665
+390,6_Geopolitical Strategy,0.32115021573622843
+390,7_Trade Agreements,0.08322028017564807
+390,8_Infrastructure Development,0.11058239946364087
+400,1_Economic Cooperation,0.24722713971783863
+400,2_Belt and Road Initiative (BRI),0.48951711822836746
+400,3_Diplomatic Relations,0.2083797876391827
+400,4_Technology and Innovation,0.36556085418813805
+400,5_Cultural Exchange,0.1341379819176563
+400,6_Geopolitical Strategy,0.32988185007438253
+400,7_Trade Agreements,0.07946850386706134
+400,8_Infrastructure Development,0.09781015855492924
+410,1_Economic Cooperation,0.25719772131488533
+410,2_Belt and Road Initiative (BRI),0.48036260795931157
+410,3_Diplomatic Relations,0.18094282846416238
+410,4_Technology and Innovation,0.40079135112780645
+410,5_Cultural Exchange,0.13558670655821609
+410,6_Geopolitical Strategy,0.3472418861763019
+410,7_Trade Agreements,0.07646642265163539
+410,8_Infrastructure Development,0.09185856096864059
+420,1_Economic Cooperation,0.23815421179738944
+420,2_Belt and Road Initiative (BRI),0.535603724723539
+420,3_Diplomatic Relations,0.17685822335728058
+420,4_Technology and Innovation,0.3425414439081035
+420,5_Cultural Exchange,0.130190150444203
+420,6_Geopolitical Strategy,0.35486670322561614
+420,7_Trade Agreements,0.07872463763613749
+420,8_Infrastructure Development,0.09833506501364558
+430,1_Economic Cooperation,0.25106021184253774
+430,2_Belt and Road Initiative (BRI),0.515112238777267
+430,3_Diplomatic Relations,0.18028784395349778
+430,4_Technology and Innovation,0.337798547906631
+430,5_Cultural Exchange,0.13864323502946585
+430,6_Geopolitical Strategy,0.29847378322471785
+430,7_Trade Agreements,0.07803777272546077
+430,8_Infrastructure Development,0.08620124507924823
+440,1_Economic Cooperation,0.23229356097016823
+440,2_Belt and Road Initiative (BRI),0.4628577747873029
+440,3_Diplomatic Relations,0.20259723112146347
+440,4_Technology and Innovation,0.36949105309267527
+440,5_Cultural Exchange,0.1266029859479299
+440,6_Geopolitical Strategy,0.2833759227333966
+440,7_Trade Agreements,0.07440200745428982
+440,8_Infrastructure Development,0.08267118063932645
+450,1_Economic Cooperation,0.22849451683370617
+450,2_Belt and Road Initiative (BRI),0.47427184403904205
+450,3_Diplomatic Relations,0.18173953846398674
+450,4_Technology and Innovation,0.3615721904091761
+450,5_Cultural Exchange,0.13385557737815773
+450,6_Geopolitical Strategy,0.2907027139995163
+450,7_Trade Agreements,0.08062144550013566
+450,8_Infrastructure Development,0.09724417693678726
+460,1_Economic Cooperation,0.22350809267732935
+460,2_Belt and Road Initiative (BRI),0.47682542650142246
+460,3_Diplomatic Relations,0.19536856625635413
+460,4_Technology and Innovation,0.3731608509830079
+460,5_Cultural Exchange,0.12995177314764478
+460,6_Geopolitical Strategy,0.2943346353142035
+460,7_Trade Agreements,0.07402026351141923
+460,8_Infrastructure Development,0.07982796382172236
+470,1_Economic Cooperation,0.23892791565430696
+470,2_Belt and Road Initiative (BRI),0.4472300690663124
+470,3_Diplomatic Relations,0.19109226334923402
+470,4_Technology and Innovation,0.32159823665891635
+470,5_Cultural Exchange,0.12549603756639272
+470,6_Geopolitical Strategy,0.30620413171106203
+470,7_Trade Agreements,0.08533879497276121
+470,8_Infrastructure Development,0.08797216814933424
+480,1_Economic Cooperation,0.2312239985515291
+480,2_Belt and Road Initiative (BRI),0.49940016157985273
+480,3_Diplomatic Relations,0.17447303365438743
+480,4_Technology and Innovation,0.3579718484049822
+480,5_Cultural Exchange,0.13028556267973626
+480,6_Geopolitical Strategy,0.2761004890625296
+480,7_Trade Agreements,0.07671909249914201
+480,8_Infrastructure Development,0.0817323644086086
+490,1_Economic Cooperation,0.22855037094820094
+490,2_Belt and Road Initiative (BRI),0.47726147309511074
+490,3_Diplomatic Relations,0.17299445395224217
+490,4_Technology and Innovation,0.35607500900303757
+490,5_Cultural Exchange,0.13283898522587606
+490,6_Geopolitical Strategy,0.28146027926538264
+490,7_Trade Agreements,0.07328310539609285
+490,8_Infrastructure Development,0.08755347520743124
+500,1_Economic Cooperation,0.217440222607896
+500,2_Belt and Road Initiative (BRI),0.46056049436245333
+500,3_Diplomatic Relations,0.18481823145933918
+500,4_Technology and Innovation,0.37566970240409825
+500,5_Cultural Exchange,0.12691838990011517
+500,6_Geopolitical Strategy,0.28757551758020006
+500,7_Trade Agreements,0.06980272908148048
+500,8_Infrastructure Development,0.08050124434520846
+510,1_Economic Cooperation,0.20491778854102688
+510,2_Belt and Road Initiative (BRI),0.47246896624063306
+510,3_Diplomatic Relations,0.1684937857613384
+510,4_Technology and Innovation,0.36372139396407493
+510,5_Cultural Exchange,0.11712470297829312
+510,6_Geopolitical Strategy,0.27177314557458776
+510,7_Trade Agreements,0.07710094444421808
+510,8_Infrastructure Development,0.08717540027214503
+520,1_Economic Cooperation,0.2009787390008249
+520,2_Belt and Road Initiative (BRI),0.4611669605783068
+520,3_Diplomatic Relations,0.18516584470719483
+520,4_Technology and Innovation,0.35140299328473823
+520,5_Cultural Exchange,0.11858898270983237
+520,6_Geopolitical Strategy,0.2881483605592748
+520,7_Trade Agreements,0.07833522976526067
+520,8_Infrastructure Development,0.0785009585550989
+530,1_Economic Cooperation,0.2069264822185256
+530,2_Belt and Road Initiative (BRI),0.43927107725589604
+530,3_Diplomatic Relations,0.1518507451961072
+530,4_Technology and Innovation,0.33817256860090184
+530,5_Cultural Exchange,0.12132848934459914
+530,6_Geopolitical Strategy,0.28817631464059706
+530,7_Trade Agreements,0.07272891394761377
+530,8_Infrastructure Development,0.08389981786941275
+540,1_Economic Cooperation,0.21613468831254098
+540,2_Belt and Road Initiative (BRI),0.4392809715543648
+540,3_Diplomatic Relations,0.16946533533825844
+540,4_Technology and Innovation,0.33147762950905757
+540,5_Cultural Exchange,0.1313294302931616
+540,6_Geopolitical Strategy,0.27605033504811805
+540,7_Trade Agreements,0.08482718101305131
+540,8_Infrastructure Development,0.08510065642604528
+550,1_Economic Cooperation,0.20155268013331337
+550,2_Belt and Road Initiative (BRI),0.47350335416305556
+550,3_Diplomatic Relations,0.15286813636217897
+550,4_Technology and Innovation,0.35988577466451943
+550,5_Cultural Exchange,0.10379793685060242
+550,6_Geopolitical Strategy,0.28803049041241985
+550,7_Trade Agreements,0.0839487896132981
+550,8_Infrastructure Development,0.0885729028086048
+560,1_Economic Cooperation,0.19845409998496907
+560,2_Belt and Road Initiative (BRI),0.4810102513006054
+560,3_Diplomatic Relations,0.13604133157083553
+560,4_Technology and Innovation,0.3289700273031903
+560,5_Cultural Exchange,0.1295442998072541
+560,6_Geopolitical Strategy,0.25426221501335605
+560,7_Trade Agreements,0.07714118261054466
+560,8_Infrastructure Development,0.09094686961210459
+570,1_Economic Cooperation,0.19372840015066542
+570,2_Belt and Road Initiative (BRI),0.49757525016406706
+570,3_Diplomatic Relations,0.16057907415194592
+570,4_Technology and Innovation,0.3561856041811699
+570,5_Cultural Exchange,0.12276141334108441
+570,6_Geopolitical Strategy,0.2700386817913574
+570,7_Trade Agreements,0.09012745026886287
+570,8_Infrastructure Development,0.0733512634935247
+580,1_Economic Cooperation,0.19049784889483334
+580,2_Belt and Road Initiative (BRI),0.48705909650908374
+580,3_Diplomatic Relations,0.15406579859813443
+580,4_Technology and Innovation,0.3579436526233453
+580,5_Cultural Exchange,0.12386312563422601
+580,6_Geopolitical Strategy,0.26260375237278444
+580,7_Trade Agreements,0.08094513722051033
+580,8_Infrastructure Development,0.09128643126154268
+590,1_Economic Cooperation,0.21054454013494245
+590,2_Belt and Road Initiative (BRI),0.45570656152646394
+590,3_Diplomatic Relations,0.16076101509162669
+590,4_Technology and Innovation,0.3353831504787925
+590,5_Cultural Exchange,0.12265025316387428
+590,6_Geopolitical Strategy,0.2534075750315627
+590,7_Trade Agreements,0.0698644137274526
+590,8_Infrastructure Development,0.09414634680805084
+600,1_Economic Cooperation,0.1901816223510889
+600,2_Belt and Road Initiative (BRI),0.45291772014350173
+600,3_Diplomatic Relations,0.15376717026957673
+600,4_Technology and Innovation,0.34219533806310803
+600,5_Cultural Exchange,0.11629208934437815
+600,6_Geopolitical Strategy,0.2587599523639734
+600,7_Trade Agreements,0.06680202807362344
+600,8_Infrastructure Development,0.07823526243006815
+610,1_Economic Cooperation,0.16508473063028092
+610,2_Belt and Road Initiative (BRI),0.4893004293811683
+610,3_Diplomatic Relations,0.1539423079239428
+610,4_Technology and Innovation,0.35217609948436285
+610,5_Cultural Exchange,0.12397482828333331
+610,6_Geopolitical Strategy,0.27231963258525754
+610,7_Trade Agreements,0.07516095915970596
+610,8_Infrastructure Development,0.0764724299381144
+620,1_Economic Cooperation,0.1754975343043204
+620,2_Belt and Road Initiative (BRI),0.4725796504436294
+620,3_Diplomatic Relations,0.14081705484257417
+620,4_Technology and Innovation,0.33763760167945106
+620,5_Cultural Exchange,0.11157061376719447
+620,6_Geopolitical Strategy,0.251780050817455
+620,7_Trade Agreements,0.07454399649848627
+620,8_Infrastructure Development,0.07881717571360938
+630,1_Economic Cooperation,0.17385851146248363
+630,2_Belt and Road Initiative (BRI),0.44801296848780897
+630,3_Diplomatic Relations,0.16162958517200335
+630,4_Technology and Innovation,0.33723696302324396
+630,5_Cultural Exchange,0.1264688270935206
+630,6_Geopolitical Strategy,0.25667108967624064
+630,7_Trade Agreements,0.07186692687548595
+630,8_Infrastructure Development,0.07561625838912422
+640,1_Economic Cooperation,0.17563524976964676
+640,2_Belt and Road Initiative (BRI),0.44956912065489574
+640,3_Diplomatic Relations,0.15873868816866762
+640,4_Technology and Innovation,0.35105668313488697
+640,5_Cultural Exchange,0.11931059089814185
+640,6_Geopolitical Strategy,0.2826990372704003
+640,7_Trade Agreements,0.07654649292627061
+640,8_Infrastructure Development,0.07503091302404759
+650,1_Economic Cooperation,0.16636076534811492
+650,2_Belt and Road Initiative (BRI),0.478750405294169
+650,3_Diplomatic Relations,0.1515664262287288
+650,4_Technology and Innovation,0.315965273206757
+650,5_Cultural Exchange,0.1176228722226389
+650,6_Geopolitical Strategy,0.2866167252820201
+650,7_Trade Agreements,0.07409052457159791
+650,8_Infrastructure Development,0.07593407998062499
+660,1_Economic Cooperation,0.16517227468322787
+660,2_Belt and Road Initiative (BRI),0.4688647494343241
+660,3_Diplomatic Relations,0.15584692693846686
+660,4_Technology and Innovation,0.3378465400368302
+660,5_Cultural Exchange,0.11820823300027446
+660,6_Geopolitical Strategy,0.27188419995210383
+660,7_Trade Agreements,0.07784084411464916
+660,8_Infrastructure Development,0.07775094248812883
+670,1_Economic Cooperation,0.1542279548896228
+670,2_Belt and Road Initiative (BRI),0.4792249996893949
+670,3_Diplomatic Relations,0.15749798990182143
+670,4_Technology and Innovation,0.2952807520076602
+670,5_Cultural Exchange,0.12589876523335988
+670,6_Geopolitical Strategy,0.2516696623013261
+670,7_Trade Agreements,0.06938680503369694
+670,8_Infrastructure Development,0.08779486001291134
+680,1_Economic Cooperation,0.15786203293160794
+680,2_Belt and Road Initiative (BRI),0.4737898914589097
+680,3_Diplomatic Relations,0.15018496525039798
+680,4_Technology and Innovation,0.3307732100276058
+680,5_Cultural Exchange,0.1120181661317864
+680,6_Geopolitical Strategy,0.2545477662476801
+680,7_Trade Agreements,0.07197472938967751
+680,8_Infrastructure Development,0.0782609511766825
+690,1_Economic Cooperation,0.1842008125143908
+690,2_Belt and Road Initiative (BRI),0.45035264394627444
+690,3_Diplomatic Relations,0.12914985500320064
+690,4_Technology and Innovation,0.31120315284707695
+690,5_Cultural Exchange,0.11794804949870612
+690,6_Geopolitical Strategy,0.25328833833350584
+690,7_Trade Agreements,0.07166517382255112
+690,8_Infrastructure Development,0.07707394455617982
+700,1_Economic Cooperation,0.15629862931377644
+700,2_Belt and Road Initiative (BRI),0.4778290672040404
+700,3_Diplomatic Relations,0.14435066806469546
+700,4_Technology and Innovation,0.31413717026429455
+700,5_Cultural Exchange,0.11317391121243384
+700,6_Geopolitical Strategy,0.26575178793725907
+700,7_Trade Agreements,0.07457459793186516
+700,8_Infrastructure Development,0.078422419618221
+710,1_Economic Cooperation,0.17529864602453737
+710,2_Belt and Road Initiative (BRI),0.4904868782723643
+710,3_Diplomatic Relations,0.14702063918434957
+710,4_Technology and Innovation,0.3166621172375933
+710,5_Cultural Exchange,0.11256598377151113
+710,6_Geopolitical Strategy,0.2577812787788584
+710,7_Trade Agreements,0.06650122536042996
+710,8_Infrastructure Development,0.0772928613537705
+720,1_Economic Cooperation,0.16337925866322678
+720,2_Belt and Road Initiative (BRI),0.4378468903253103
+720,3_Diplomatic Relations,0.1415259113038508
+720,4_Technology and Innovation,0.31994838290898686
+720,5_Cultural Exchange,0.10722265461231321
+720,6_Geopolitical Strategy,0.2688719527253727
+720,7_Trade Agreements,0.06241141671653487
+720,8_Infrastructure Development,0.06984578973943088
+730,1_Economic Cooperation,0.16418745897452355
+730,2_Belt and Road Initiative (BRI),0.4444814976234707
+730,3_Diplomatic Relations,0.15294780206850045
+730,4_Technology and Innovation,0.3433080384696612
+730,5_Cultural Exchange,0.12104503190748735
+730,6_Geopolitical Strategy,0.24352938624774256
+730,7_Trade Agreements,0.06808714110994
+730,8_Infrastructure Development,0.07372047767389389
+740,1_Economic Cooperation,0.17152401722038166
+740,2_Belt and Road Initiative (BRI),0.4637361983718565
+740,3_Diplomatic Relations,0.13892200690397064
+740,4_Technology and Innovation,0.3000371343435631
+740,5_Cultural Exchange,0.11297994125090086
+740,6_Geopolitical Strategy,0.23899573835155113
+740,7_Trade Agreements,0.07248874617046792
+740,8_Infrastructure Development,0.07809212295630627
+750,1_Economic Cooperation,0.15008971623552575
+750,2_Belt and Road Initiative (BRI),0.4922658645770642
+750,3_Diplomatic Relations,0.15073520107257393
+750,4_Technology and Innovation,0.3397241913152478
+750,5_Cultural Exchange,0.1135177155371377
+750,6_Geopolitical Strategy,0.2315759199772442
+750,7_Trade Agreements,0.06600936807253953
+750,8_Infrastructure Development,0.07506646965901465
+760,1_Economic Cooperation,0.1510153257615843
+760,2_Belt and Road Initiative (BRI),0.452040476543284
+760,3_Diplomatic Relations,0.1594691315481716
+760,4_Technology and Innovation,0.29058573530094506
+760,5_Cultural Exchange,0.12128876811213844
+760,6_Geopolitical Strategy,0.23405995181928502
+760,7_Trade Agreements,0.079457949274134
+760,8_Infrastructure Development,0.07635587473633836
+770,1_Economic Cooperation,0.14662466027627472
+770,2_Belt and Road Initiative (BRI),0.46713561471384335
+770,3_Diplomatic Relations,0.1373471481896638
+770,4_Technology and Innovation,0.2783095924086152
+770,5_Cultural Exchange,0.11226497696811934
+770,6_Geopolitical Strategy,0.22542866796121297
+770,7_Trade Agreements,0.06873998261814311
+770,8_Infrastructure Development,0.07550579325547713
+780,1_Economic Cooperation,0.16199259198833155
+780,2_Belt and Road Initiative (BRI),0.44144978843533617
+780,3_Diplomatic Relations,0.1573619760997963
+780,4_Technology and Innovation,0.30510136746578165
+780,5_Cultural Exchange,0.11506308886071158
+780,6_Geopolitical Strategy,0.2513613018191297
+780,7_Trade Agreements,0.07265454341576774
+780,8_Infrastructure Development,0.07307774884176053
+790,1_Economic Cooperation,0.15866834217934472
+790,2_Belt and Road Initiative (BRI),0.46173948510141355
+790,3_Diplomatic Relations,0.15573846073520806
+790,4_Technology and Innovation,0.30472182969220996
+790,5_Cultural Exchange,0.10260976806490053
+790,6_Geopolitical Strategy,0.24030817179330508
+790,7_Trade Agreements,0.0674906403421405
+790,8_Infrastructure Development,0.07543054157817564
+800,1_Economic Cooperation,0.1451607082090856
+800,2_Belt and Road Initiative (BRI),0.4727411908047598
+800,3_Diplomatic Relations,0.1487610851336329
+800,4_Technology and Innovation,0.2995741011293308
+800,5_Cultural Exchange,0.1130392766390964
+800,6_Geopolitical Strategy,0.23331419842670192
+800,7_Trade Agreements,0.06709357784019625
+800,8_Infrastructure Development,0.07058508943909496
+810,1_Economic Cooperation,0.14444307957997485
+810,2_Belt and Road Initiative (BRI),0.4591752307818565
+810,3_Diplomatic Relations,0.14071143705639616
+810,4_Technology and Innovation,0.3197425119243196
+810,5_Cultural Exchange,0.09360254896182713
+810,6_Geopolitical Strategy,0.24531545108844005
+810,7_Trade Agreements,0.06582974911902935
+810,8_Infrastructure Development,0.0719719013428242
+820,1_Economic Cooperation,0.1422225259970396
+820,2_Belt and Road Initiative (BRI),0.47711466253046114
+820,3_Diplomatic Relations,0.14251541848395188
+820,4_Technology and Innovation,0.298263938292018
+820,5_Cultural Exchange,0.10539122131364914
+820,6_Geopolitical Strategy,0.2394437428875198
+820,7_Trade Agreements,0.0714455324964846
+820,8_Infrastructure Development,0.0729059934325158
+830,1_Economic Cooperation,0.15810582141994628
+830,2_Belt and Road Initiative (BRI),0.45210603329147375
+830,3_Diplomatic Relations,0.14420633218145235
+830,4_Technology and Innovation,0.3048675096651278
+830,5_Cultural Exchange,0.11694256673328217
+830,6_Geopolitical Strategy,0.23819710367034494
+830,7_Trade Agreements,0.07417114082826903
+830,8_Infrastructure Development,0.0752369767992976
+840,1_Economic Cooperation,0.1455496128270484
+840,2_Belt and Road Initiative (BRI),0.4736479299504197
+840,3_Diplomatic Relations,0.1569547297666109
+840,4_Technology and Innovation,0.2927129224133252
+840,5_Cultural Exchange,0.10626216798236764
+840,6_Geopolitical Strategy,0.23811801920986694
+840,7_Trade Agreements,0.07214394763765669
+840,8_Infrastructure Development,0.07871381086091402
+850,1_Economic Cooperation,0.1403871043888186
+850,2_Belt and Road Initiative (BRI),0.44690596719757697
+850,3_Diplomatic Relations,0.1401359237353559
+850,4_Technology and Innovation,0.2968139072068186
+850,5_Cultural Exchange,0.1098510664188639
+850,6_Geopolitical Strategy,0.22932304129403802
+850,7_Trade Agreements,0.06468466261467432
+850,8_Infrastructure Development,0.07545109656082781
+860,1_Economic Cooperation,0.1298172819560387
+860,2_Belt and Road Initiative (BRI),0.47382086995172246
+860,3_Diplomatic Relations,0.14909989276491012
+860,4_Technology and Innovation,0.29552023408404915
+860,5_Cultural Exchange,0.1077902525998294
+860,6_Geopolitical Strategy,0.2327577646593561
+860,7_Trade Agreements,0.0671373330421488
+860,8_Infrastructure Development,0.07119225726878385
+870,1_Economic Cooperation,0.14658640169869772
+870,2_Belt and Road Initiative (BRI),0.4647409263941347
+870,3_Diplomatic Relations,0.13094603958954013
+870,4_Technology and Innovation,0.31448260269437506
+870,5_Cultural Exchange,0.10695918235826839
+870,6_Geopolitical Strategy,0.22969705281448385
+870,7_Trade Agreements,0.07204196965281114
+870,8_Infrastructure Development,0.07546680639904997
+880,1_Economic Cooperation,0.14313252684710528
+880,2_Belt and Road Initiative (BRI),0.446775225775083
+880,3_Diplomatic Relations,0.13627533214738494
+880,4_Technology and Innovation,0.3054535389461663
+880,5_Cultural Exchange,0.11386829618032998
+880,6_Geopolitical Strategy,0.2291355965122851
+880,7_Trade Agreements,0.07321407780458236
+880,8_Infrastructure Development,0.07301446284178267
+890,1_Economic Cooperation,0.13666418431205832
+890,2_Belt and Road Initiative (BRI),0.46310386511702695
+890,3_Diplomatic Relations,0.13628837138348676
+890,4_Technology and Innovation,0.2917166690276277
+890,5_Cultural Exchange,0.10890321887072679
+890,6_Geopolitical Strategy,0.2496051595186559
+890,7_Trade Agreements,0.07129999324121904
+890,8_Infrastructure Development,0.07663110957956483
+900,1_Economic Cooperation,0.14683908178327212
+900,2_Belt and Road Initiative (BRI),0.4915044694473953
+900,3_Diplomatic Relations,0.15201709577006214
+900,4_Technology and Innovation,0.29719299221607043
+900,5_Cultural Exchange,0.10001082807385604
+900,6_Geopolitical Strategy,0.230072371770125
+900,7_Trade Agreements,0.06804586537207823
+900,8_Infrastructure Development,0.06924281734392611
+910,1_Economic Cooperation,0.14260157872006482
+910,2_Belt and Road Initiative (BRI),0.4847736939331291
+910,3_Diplomatic Relations,0.15184165760265017
+910,4_Technology and Innovation,0.27247015495661364
+910,5_Cultural Exchange,0.10918077218245097
+910,6_Geopolitical Strategy,0.23660735175664044
+910,7_Trade Agreements,0.0797641077884217
+910,8_Infrastructure Development,0.07380869410354174
+920,1_Economic Cooperation,0.13599812049882387
+920,2_Belt and Road Initiative (BRI),0.4952476794749694
+920,3_Diplomatic Relations,0.1429356535168842
+920,4_Technology and Innovation,0.28895607385066213
+920,5_Cultural Exchange,0.10743267779878125
+920,6_Geopolitical Strategy,0.2322016044740868
+920,7_Trade Agreements,0.06559457017354209
+920,8_Infrastructure Development,0.07300042699382715
+930,1_Economic Cooperation,0.12947745157701085
+930,2_Belt and Road Initiative (BRI),0.4669038268013724
+930,3_Diplomatic Relations,0.1302447043761262
+930,4_Technology and Innovation,0.31538125616625645
+930,5_Cultural Exchange,0.09878651899576861
+930,6_Geopolitical Strategy,0.22474311531819646
+930,7_Trade Agreements,0.06963247812615384
+930,8_Infrastructure Development,0.06498201136590775
+940,1_Economic Cooperation,0.14243407462732074
+940,2_Belt and Road Initiative (BRI),0.47245958435115337
+940,3_Diplomatic Relations,0.125124650092482
+940,4_Technology and Innovation,0.2912417500333136
+940,5_Cultural Exchange,0.0933591703912452
+940,6_Geopolitical Strategy,0.23270584297556204
+940,7_Trade Agreements,0.07110964043698755
+940,8_Infrastructure Development,0.07712987161098281
+950,1_Economic Cooperation,0.1355174809582222
+950,2_Belt and Road Initiative (BRI),0.4676509022165516
+950,3_Diplomatic Relations,0.12764556105505795
+950,4_Technology and Innovation,0.28621903649187364
+950,5_Cultural Exchange,0.10267464005123764
+950,6_Geopolitical Strategy,0.23310661176176647
+950,7_Trade Agreements,0.07208269547355002
+950,8_Infrastructure Development,0.06877342864571255
+960,1_Economic Cooperation,0.13178810352114423
+960,2_Belt and Road Initiative (BRI),0.44838190843768244
+960,3_Diplomatic Relations,0.13420537080251368
+960,4_Technology and Innovation,0.2941806216267987
+960,5_Cultural Exchange,0.1015579862828341
+960,6_Geopolitical Strategy,0.2273174519101831
+960,7_Trade Agreements,0.07255441881460852
+960,8_Infrastructure Development,0.07828278684051758
+970,1_Economic Cooperation,0.1470992330255788
+970,2_Belt and Road Initiative (BRI),0.4434951001164578
+970,3_Diplomatic Relations,0.1311942644169243
+970,4_Technology and Innovation,0.3019427667632165
+970,5_Cultural Exchange,0.11070859867318486
+970,6_Geopolitical Strategy,0.21874004936180722
+970,7_Trade Agreements,0.0705424351240223
+970,8_Infrastructure Development,0.07461709809922144
+980,1_Economic Cooperation,0.1355158714515356
+980,2_Belt and Road Initiative (BRI),0.4945674460049457
+980,3_Diplomatic Relations,0.11252167650191434
+980,4_Technology and Innovation,0.313038729490472
+980,5_Cultural Exchange,0.11281643494301384
+980,6_Geopolitical Strategy,0.2420811654874921
+980,7_Trade Agreements,0.0790896405335181
+980,8_Infrastructure Development,0.07449878410041755
+990,1_Economic Cooperation,0.14018172831149156
+990,2_Belt and Road Initiative (BRI),0.44444962767775537
+990,3_Diplomatic Relations,0.12845145460507068
+990,4_Technology and Innovation,0.3131103816567019
+990,5_Cultural Exchange,0.10697141621481972
+990,6_Geopolitical Strategy,0.23164678567009997
+990,7_Trade Agreements,0.06585053730909832
+990,8_Infrastructure Development,0.06579660353026981
+1000,1_Economic Cooperation,0.13723003176690948
+1000,2_Belt and Road Initiative (BRI),0.5395444916886145
+1000,3_Diplomatic Relations,0.12344537504393165
+1000,4_Technology and Innovation,0.34379315670062144
+1000,5_Cultural Exchange,0.1125850388606163
+1000,6_Geopolitical Strategy,0.24966637013063034
+1000,7_Trade Agreements,0.07264622345903556
+1000,8_Infrastructure Development,0.07217900054231048

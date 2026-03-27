@@ -1,0 +1,44 @@
+Word,WordCount,Proportion(%),Ranking,Topic
+economic,180,0.163,1,1_Economic Cooperation
+investment,65,0.059,2,1_Economic Cooperation
+oil,64,0.058,3,1_Economic Cooperation
+trade,54,0.049,4,1_Economic Cooperation
+partnership,48,0.044,5,1_Economic Cooperation
+infrastructure,21,0.019,6,1_Economic Cooperation
+saudi_arabia,704,0.639,1,2_Belt and Road Initiative (BRI)
+china,34,0.031,2,2_Belt and Road Initiative (BRI)
+infrastructure,21,0.019,3,2_Belt and Road Initiative (BRI)
+silk_road,9,0.008,4,2_Belt and Road Initiative (BRI)
+saudi_arabia,704,0.639,1,3_Diplomatic Relations
+energy,78,0.071,2,3_Diplomatic Relations
+oil,64,0.058,3,3_Diplomatic Relations
+china,34,0.031,4,3_Diplomatic Relations
+supply,14,0.013,5,3_Diplomatic Relations
+production,12,0.011,6,3_Diplomatic Relations
+technology,66,0.06,1,4_Technology and Innovation
+china,34,0.031,2,4_Technology and Innovation
+collaboration,16,0.015,3,4_Technology and Innovation
+innovation,4,0.004,4,4_Technology and Innovation
+digital,3,0.003,5,4_Technology and Innovation
+saudi_arabia,704,0.639,1,5_Cultural Exchange
+culture,149,0.135,2,5_Cultural Exchange
+education,101,0.092,3,5_Cultural Exchange
+tourism,64,0.058,4,5_Cultural Exchange
+china,34,0.031,5,5_Cultural Exchange
+exchange,25,0.023,6,5_Cultural Exchange
+security,633,0.574,1,6_Geopolitical Strategy
+middle_east,44,0.04,2,6_Geopolitical Strategy
+alliance,38,0.034,3,6_Geopolitical Strategy
+influence,5,0.005,4,6_Geopolitical Strategy
+strategy,4,0.004,5,6_Geopolitical Strategy
+trade,54,0.049,1,7_Trade Agreements
+agreements,50,0.045,2,7_Trade Agreements
+exports,7,0.006,3,7_Trade Agreements
+partnerships,5,0.005,4,7_Trade Agreements
+imports,3,0.003,5,7_Trade Agreements
+development,187,0.17,1,8_Infrastructure Development
+projects,83,0.075,2,8_Infrastructure Development
+partnership,48,0.044,3,8_Infrastructure Development
+cities,33,0.03,4,8_Infrastructure Development
+construction,23,0.021,5,8_Infrastructure Development
+infrastructure,21,0.019,6,8_Infrastructure Development

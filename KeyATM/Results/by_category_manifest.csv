@@ -1,0 +1,6 @@
+category,category_slug,n_docs,run_keyatm,run_bertopic,output_dir
+Press Releases,press_releases,629,TRUE,TRUE,D:/IMPORTANT/TA data collection/Saudi Arabia/03_topic_model_output/by_category/press_releases
+newsletters,newsletters,11,FALSE,FALSE,D:/IMPORTANT/TA data collection/Saudi Arabia/03_topic_model_output/by_category/newsletters
+reports,reports,12,FALSE,FALSE,D:/IMPORTANT/TA data collection/Saudi Arabia/03_topic_model_output/by_category/reports
+statements,statements,102,TRUE,TRUE,D:/IMPORTANT/TA data collection/Saudi Arabia/03_topic_model_output/by_category/statements
+News,news,1123,TRUE,TRUE,D:/IMPORTANT/TA data collection/Saudi Arabia/03_topic_model_output/by_category/news

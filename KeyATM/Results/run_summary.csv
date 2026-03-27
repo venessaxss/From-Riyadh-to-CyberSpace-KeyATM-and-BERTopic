@@ -1,0 +1,2 @@
+data_path,n_documents,n_unique_categories,seed,keyatm_no_keyword_topics,keyatm_iterations,bertopic_embedding_model
+D:/IMPORTANT/TA data collection/Saudi Arabia/saudi_diplomatic_corpus.csv,1883,5,1234,3,1000,all-MiniLM-L6-v2

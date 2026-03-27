@@ -1,0 +1,49 @@
+Topic,keyword,vocab_term,count,proportion
+Belt and Road Initiative (BRI),saudi arabia,saudi_arabia,3030,0.010982399164902717
+Belt and Road Initiative (BRI),infrastructure,infrastructure,75,2.71841563487691e-4
+Belt and Road Initiative (BRI),china,china,43,1.5585582973294285e-4
+Belt and Road Initiative (BRI),silk road,silk_road,9,3.262098761852292e-5
+Belt and Road Initiative (BRI),connectivity,connectivity,3,1.087366253950764e-5
+Belt and Road Initiative (BRI),bri,bri,0,0
+Cultural Exchange,saudi arabia,saudi_arabia,3030,0.010982399164902717
+Cultural Exchange,education,education,250,9.0613854495897e-4
+Cultural Exchange,culture,culture,217,7.86528257024386e-4
+Cultural Exchange,exchange,exchange,93,3.3708353872473687e-4
+Cultural Exchange,tourism,tourism,81,2.935888885667063e-4
+Cultural Exchange,china,china,43,1.5585582973294285e-4
+Diplomatic Relations,saudi arabia,saudi_arabia,3030,0.010982399164902717
+Diplomatic Relations,energy,energy,410,0.0014860672137327108
+Diplomatic Relations,oil,oil,380,0.0013773305883376344
+Diplomatic Relations,supply,supply,74,2.682170093078551e-4
+Diplomatic Relations,production,production,61,2.2109780496998868e-4
+Diplomatic Relations,china,china,43,1.5585582973294285e-4
+Economic Cooperation,economic,economic,534,0.00193551193203236
+Economic Cooperation,oil,oil,380,0.0013773305883376344
+Economic Cooperation,investment,investment,220,7.974019195638937e-4
+Economic Cooperation,partnership,partnership,194,7.031635108881608e-4
+Economic Cooperation,trade,trade,132,4.7844115173833617e-4
+Economic Cooperation,infrastructure,infrastructure,75,2.71841563487691e-4
+Geopolitical Strategy,security,security,1675,0.006071128251225099
+Geopolitical Strategy,middle east,middle_east,193,6.995389567083248e-4
+Geopolitical Strategy,alliance,alliance,80,2.8996433438687044e-4
+Geopolitical Strategy,strategy,strategy,52,1.8847681735146578e-4
+Geopolitical Strategy,influence,influence,24,8.698930031606113e-5
+Geopolitical Strategy,geopolitics,geopolitics,4,1.4498216719343522e-5
+Infrastructure Development,development,development,498,0.0018050279815582683
+Infrastructure Development,partnership,partnership,194,7.031635108881608e-4
+Infrastructure Development,projects,projects,168,6.089251022124278e-4
+Infrastructure Development,cities,cities,85,3.080871052860498e-4
+Infrastructure Development,infrastructure,infrastructure,75,2.71841563487691e-4
+Infrastructure Development,construction,construction,45,1.6310493809261462e-4
+Technology and Innovation,technology,technology,163,5.908023313132485e-4
+Technology and Innovation,collaboration,collaboration,48,1.7397860063212225e-4
+Technology and Innovation,china,china,43,1.5585582973294285e-4
+Technology and Innovation,innovation,innovation,20,7.249108359671761e-5
+Technology and Innovation,digital,digital,9,3.262098761852292e-5
+Technology and Innovation,ai,ai,0,0
+Trade Agreements,trade,trade,132,4.7844115173833617e-4
+Trade Agreements,agreements,agreements,114,4.1319917650129036e-4
+Trade Agreements,partnerships,partnerships,40,1.4498216719343522e-4
+Trade Agreements,imports,imports,20,7.249108359671761e-5
+Trade Agreements,exports,exports,16,5.7992866877374086e-5
+Trade Agreements,deals,deals,11,3.987009597819468e-5
